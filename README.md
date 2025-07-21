@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Albert Murillo
 
 **Full-Stack Web Developer** | React | Node.js | ASP.NET Core  
-I help clients build scalable, modern web applications. Let’s turn your ideas into reality!
+I help clients build scalable, modern web applications. 
 
 🔧 **Technologies & Tools**:  
 - **Front-end**: React, Next.js, Angular, Vue.js, Tailwind CSS  
