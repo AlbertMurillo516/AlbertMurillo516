@@ -11,6 +11,3 @@ I help clients build scalable, modern web applications.
 - **Tools**: Git, Jira, Prisma, Entity Framework, Jenkins  
 
 🌱 **Currently Learning**: Microservices & cloud-native development.  
-
-📫 **How to Reach Me**:  
-- [Upwork Profile](https://www.upwork.com/freelancers/~010897a96fb1d1cd5d)  
